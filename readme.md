@@ -555,4 +555,5 @@ translateBaidu('good luck')
 ```
 
     {'error_code': '54004', 'error_msg': 'Please recharge'}
-    
+<img src='images/bdaccount.JPG'/>
+<img src='images/bderrorc.JPG'/>
